@@ -1,0 +1,42 @@
+{
+  "image": "0.png",
+  "name": "Individual NFT Name",
+  "symbol": "TICKER",
+  "collection": {
+    "name": "Collection Name",
+    "family": "NFT Family"
+  },
+  "attributes": [
+    {
+      "trait_type": "body",
+      "value": "standard"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "happy"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "none"
+    }
+  ],
+  "seller_fee_basis_points": 500,
+  "properties": {
+    "creators": [
+      {
+        "address": "",
+        "share": 60
+      },
+      {
+        "address": "",
+        "share": 40
+      }
+    ],
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

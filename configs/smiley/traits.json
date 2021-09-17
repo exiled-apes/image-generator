@@ -1,0 +1,13 @@
+{
+  "body": [
+    { "id": "standard", "weight": 1 }
+  ],
+  "mouth": [
+    { "id": "happy", "weight": 1 },
+    { "id": "none", "weight": 1 }
+  ],
+  "eyes": [
+    { "id": "open", "weight": 1 },
+    { "id": "none", "weight": 1 }
+  ]
+}
